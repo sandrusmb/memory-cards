@@ -69,7 +69,7 @@ function paintCard(cardStatus_object) {
 
 let cardStatus = [
   { id: 0, turned: "true", icon: 0 },
-  { id: 1, turned: "false", icon: 1 },
+  { id: 1, turned: "true", icon: 1 },
   { id: 2, turned: "true", icon: 2 },
   { id: 3, turned: "true", icon: 3 },
   { id: 4, turned: "true", icon: 4 },
@@ -78,11 +78,11 @@ let cardStatus = [
   { id: 7, turned: "true", icon: 7 },
   { id: 8, turned: "true", icon: 0 },
   { id: 9, turned: "true", icon: 1 },
-  { id: 10, turned: "false", icon: 2 },
+  { id: 10, turned: "true", icon: 2 },
   { id: 11, turned: "true", icon: 3 },
   { id: 12, turned: "true", icon: 4 },
   { id: 13, turned: "true", icon: 5 },
-  { id: 14, turned: "false", icon: 6 },
+  { id: 14, turned: "true", icon: 6 },
   { id: 15, turned: "true", icon: 7 }
 ];
 
